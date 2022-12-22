@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/TaskManager.git/static/css/main.073c9b0a.css",
-    "main.js": "/TaskManager.git/static/js/main.04677683.js",
-    "static/js/787.a5cad257.chunk.js": "/TaskManager.git/static/js/787.a5cad257.chunk.js",
-    "static/media/logo.svg": "/TaskManager.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/TaskManager.git/index.html",
-    "main.073c9b0a.css.map": "/TaskManager.git/static/css/main.073c9b0a.css.map",
-    "main.04677683.js.map": "/TaskManager.git/static/js/main.04677683.js.map",
-    "787.a5cad257.chunk.js.map": "/TaskManager.git/static/js/787.a5cad257.chunk.js.map"
+    "main.css": "/TaskManager/static/css/main.a7a9531c.css",
+    "main.js": "/TaskManager/static/js/main.230b0c6c.js",
+    "index.html": "/TaskManager/index.html",
+    "main.a7a9531c.css.map": "/TaskManager/static/css/main.a7a9531c.css.map",
+    "main.230b0c6c.js.map": "/TaskManager/static/js/main.230b0c6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.04677683.js"
+    "static/css/main.a7a9531c.css",
+    "static/js/main.230b0c6c.js"
   ]
 }
